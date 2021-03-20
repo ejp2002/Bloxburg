@@ -1,5 +1,6 @@
 --[[
     Bloxburg Script (Uh, good name right...?)
+    Meme: https://sperg.club/uploads/elFYKuMqdp9kRljM.png
 ]]
 
 -- Wait for game to load
