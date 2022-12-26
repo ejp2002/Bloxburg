@@ -7,6 +7,10 @@
 
 repeat wait() until game:IsLoaded();
 
+if (true) then
+    return game.Players.LocalPlayer:Kick'\nThis script is patched. An unpatched version can be found in my hub (https://acedia.cc/discord).'; -- Who would've guessed that a year old script is fucking patched?
+end;
+
 -- Define variables
 
 local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/LegoHacks/Utilities/main/UI.lua"))();
